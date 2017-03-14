@@ -71,6 +71,9 @@ The Eulers Totient Function script
 primitiveRoots.rb
 The whole thing ... so far.
 
+primitiveRoots_clean.rb
+As usual, I like to include an uncommented version of the code.
+
 ---------------------------------
 
 TODO:
